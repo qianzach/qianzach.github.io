@@ -8,10 +8,6 @@ I am currently a fourth year student at UCLA studying Applied Mathematics, with 
 
 I intend to pursue graduate school, specifically a PhD program in Biostatistics or Statistics. My primary research interests at the moment are high dimensional data analysis and Bayesian methods. In terms of applications research, I find neuroimaging and survival analysis particularly interesting. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 Feel free to contact me via [qianzach@g.ucla.edu](mailto:qianzach@g/ucla.edu)!
 
